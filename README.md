@@ -3,7 +3,7 @@ Assignments for the course of Intelligent Systems for Pattern Recognition @ Univ
 
 <img src="imgs/unipi_logo.png" align="right" alt="Unipi logo">
 
-Authors: [Alberto Marinelli](https://github.com/AlbertoMarinelli)
+Author: [Alberto Marinelli](https://github.com/AlbertoMarinelli)
 
 - **[Midterm 1 (18 March 2022): Autoregressive model](midterm1)**
 - **[Midterm 2 (14 April 2022): Restricted Boltzmann Machine](midterm2)**

@@ -1,4 +1,4 @@
-# Midterm 1 - Assignment 1 (18 March 2022): Autoregressive model
+# Midterm 1 (18 March 2022): Autoregressive model
 
 ## Assignment
 As you know, auto-regressive models assume weak stationarity. What happens if this assumption does not hold? To study the effect of non-stationarity, we will add a linear trend to the “Appliances” column of the dataset, which measures the energy consumption of appliances across a period of 4.5 months.

@@ -1,5 +1,5 @@
-# Intelligent Systems for Pattern Recognition midterms
-Assignments for the course of Intelligent Systems for Pattern Recognition @ University of Pisa
+# ISPR midterms
+Assignments for the course of Intelligent Systems for Pattern Recognition @ [University of Pisa](https://www.unipi.it/index.php/english)
 
 <img src="imgs/unipi_logo.png" align="right" alt="Unipi logo">
 

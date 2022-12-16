@@ -1,4 +1,4 @@
-# Midterm 2 - Assignment 3 (14 April 2022): Restricted Boltzmann Machine
+# Midterm 2 (14 April 2022): Restricted Boltzmann Machine
 
 ## Assignment
 Implement from scratch an RBM and apply it to DSET3. The RBM should be implemented fully by you (both CD-1 training and inference steps) but you are free to use library functions for the rest (e.g. image loading and management, etc.).
